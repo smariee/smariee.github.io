@@ -18,6 +18,7 @@ labels:
 <p class="font-monospace">This is in monospace</p>
 
 ## MIS and ME
+
 <p class="text-center","lh-lg","font-monospace">From my perspective, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. 
 
 I dabbled a bit of coding during the good 'ol days of MySpace and that's where I found myself spending long nights customizing and building my very own MySpace page. 
@@ -33,7 +34,7 @@ to manage projects to implement IT-related change.”
  I thought to myself that maybe I didn’t have what it takes to be successful in this major.  But—even though I doubted my potential—for a while, MIS would 
  
  always lurk in the back of my mind—I was curious. 
- </p>
+ </p></p></p>
  
  
  
