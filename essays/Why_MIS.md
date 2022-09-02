@@ -13,7 +13,7 @@ labels:
   - Learn Something New
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="https://media.giphy.com/media/n3JIEnPSPAiZqAZ5No/giphy.gif">
+<img width="600px" class="rounded center" src="https://media.giphy.com/media/n3JIEnPSPAiZqAZ5No/giphy.gif">
 *MIS and ME* 
 
 From my perspective, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. 
