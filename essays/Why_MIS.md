@@ -19,7 +19,9 @@ labels:
 
 ## MIS and ME
 
-<p class="text-center","lh-lg">From my perspective, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. 
+<p class="text-center","lh-lg">
+  
+From my perspective, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. 
 
 I dabbled a bit of coding during the good 'ol days of MySpace and that's where I found myself spending long nights customizing and building my very own MySpace page. 
 
@@ -33,9 +35,7 @@ to manage projects to implement IT-related change.”
 
  I thought to myself that maybe I didn’t have what it takes to be successful in this major.  But—even though I doubted my potential—for a while, MIS would 
  
- always lurk in the back of my mind—I was curious. 
- </p>
- 
+ always lurk in the back of my mind—I was curious. </p>
  
  
  <img width="250px" class="rounded float-start pe-4" src="https://cache.lovethispic.com/uploaded_images/179015-I-Have-No-Special-Talent-I-Am-Only-Passionately-Curious.jpg">
