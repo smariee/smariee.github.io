@@ -13,9 +13,10 @@ labels:
   - Learn Something New
 ---
 
-<img width="700px" src="https://media.giphy.com/media/n3JIEnPSPAiZqAZ5No/giphy.gif" class="rounded mx-auto d-block">
+<img width="700px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" class="rounded mx-auto d-block">
 
-## MIS and ME
+
+<p class="text-center">## MIS and ME
 
 From my perspective, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. 
 
@@ -32,6 +33,7 @@ to manage projects to implement IT-related change.”
  I thought to myself that maybe I didn’t have what it takes to be successful in this major.  But—even though I doubted my potential—for a while, MIS would 
  
  always lurk in the back of my mind—I was curious. 
+ </p>
  
  
  
