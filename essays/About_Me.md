@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A smile is always the best form of introduction"
+title: "A Smile is Always the Best Form of Introduction"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-01
 published: true
