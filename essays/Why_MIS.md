@@ -15,11 +15,10 @@ labels:
 
 <img width="700px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" class="rounded mx-auto d-block">
 
-<p class="font-monospace">This is in monospace</p>
+<p class="text-center"><p class="font-monospace">
 
 ## MIS and ME
 
-<p class="text-center","lh-lg">
   
 From my perspective, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. 
 
@@ -35,10 +34,9 @@ to manage projects to implement IT-related change.”
 
  I thought to myself that maybe I didn’t have what it takes to be successful in this major.  But—even though I doubted my potential—for a while, MIS would 
  
- always lurk in the back of my mind—I was curious. </p>
+ always lurk in the back of my mind—I was curious. </p></p>
  
  
- <img width="250px" class="rounded float-start pe-4" src="https://cache.lovethispic.com/uploaded_images/179015-I-Have-No-Special-Talent-I-Am-Only-Passionately-Curious.jpg">
 “It wouldn’t hurt to try.” 
 
 “You won’t know unless you try.” 
@@ -50,6 +48,15 @@ I am curious.
 ITM 352 is just beginning of MIS and me. 
 
 ## *So far, I'm interested.*
+
+ <figure class="text-center">
+  <blockquote class="blockquote">
+    <p>I have no special talent. I am only passionately curious.</p>
+  </blockquote>
+  <figcaption class="blockquote-footer">
+    Genius named <cite title="Source Title">Albert Einstein</cite>
+  </figcaption>
+</figure>
 
 
 
