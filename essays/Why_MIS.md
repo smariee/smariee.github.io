@@ -18,7 +18,7 @@ labels:
 <p class="font-monospace">This is in monospace</p>
 
 ## MIS and ME
-<p class="text-center","lh-lg"> From my perspective, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. 
+<p class="text-center","lh-lg","font-monospace">From my perspective, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. 
 
 I dabbled a bit of coding during the good 'ol days of MySpace and that's where I found myself spending long nights customizing and building my very own MySpace page. 
 
