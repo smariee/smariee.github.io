@@ -14,8 +14,8 @@ labels:
 ---
 
 <img src="https://media.giphy.com/media/n3JIEnPSPAiZqAZ5No/giphy.gif" class="center">
-<img width="600px" class="rounded float-start pe-4" src="https://media.giphy.com/media/n3JIEnPSPAiZqAZ5No/giphy.gif">
-*MIS and ME* 
+
+## MIS and ME
 
 From my perspective, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. 
 
@@ -28,7 +28,8 @@ The past couple months, I researched more about the Management Information Syste
 “….analyze opportunities for business change and growth using information technologies (IT), to design and develop business solutions that utilize IT, and to manage projects to implement IT-related change.”
 
  I thought to myself that maybe I didn’t have what it takes to be successful in this major.  But—even though I doubted my potential—for a while, MIS would always lurk in the back of my mind—I was curious. 
-
+ 
+ <img width="350px" class="rounded float-start pe-4" align="right" src="https://cache.lovethispic.com/uploaded_images/179015-I-Have-No-Special-Talent-I-Am-Only-Passionately-Curious.jpg">
 “It wouldn’t hurt to try.” 
 
 “You won’t know unless you try.” 
@@ -41,5 +42,5 @@ ITM 352 is just beginning of MIS and me.
 
 So far, I'm interested.
 
-<img width="350px" class="rounded float-start pe-4" src="https://cache.lovethispic.com/uploaded_images/179015-I-Have-No-Special-Talent-I-Am-Only-Passionately-Curious.jpg">
+
 
