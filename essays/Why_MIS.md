@@ -13,6 +13,7 @@ labels:
   - Learn Something New
 ---
 
+<img src="https://media.giphy.com/media/n3JIEnPSPAiZqAZ5No/giphy.gif" class="center">
 <img width="600px" class="rounded float-start pe-4" src="https://media.giphy.com/media/n3JIEnPSPAiZqAZ5No/giphy.gif">
 *MIS and ME* 
 
