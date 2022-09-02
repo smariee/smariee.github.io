@@ -15,10 +15,8 @@ labels:
 
 <img width="700px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" class="rounded mx-auto d-block">
 
-
-<p class="text-center">## MIS and ME
-
-From my perspective, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. 
+## MIS and ME
+<p class="text-center","lh-lg","font-monospace"> From my perspective, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. 
 
 I dabbled a bit of coding during the good 'ol days of MySpace and that's where I found myself spending long nights customizing and building my very own MySpace page. 
 
