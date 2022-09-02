@@ -22,4 +22,4 @@ I enjoy talking walks with Scruffy and drinking milk tea. Watching Kdramas and N
 
 Gaining new knowledge about my major piques my curiousity and I hope it stays that way. 
 
-Pleasure meeting you!
+Pleasure meeting you! 🤝
