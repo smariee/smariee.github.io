@@ -26,7 +26,7 @@ From my perspective, taking ITM 352 is a good way for me to test the waters and 
 It was there--that memory--that I knew I should try to learn more about basic programming skills which led me to take this class. The past couple months, I researched more about the Management Information Systems on the Shidler website, the first couple lines threw me off: 
 <br>   
 <br>
-<i>“….analyze opportunities for business change and growth using information technologies (IT), to design and develop business solutions that utilize IT, and to manage projects to implement IT-related change."</i>
+<i>“...analyze opportunities for business change and growth using information technologies (IT), to design and develop business solutions that utilize IT, and to manage projects to implement IT-related change."</i>
 <br>  
 <br>  
 I thought to myself that maybe I didn’t have what it takes to be successful in this major. But—even though I doubted my potential--for a while, MIS would lurk in the back of my mind—-I was curious. 
@@ -44,7 +44,7 @@ ITM 352 is just the beginning of MIS and me.
 <br>  
 <br>  
 <br>  
-<i>So far, I'm Interested
+<i>So far, I'm Interested.
 &nbsp;
 &nbsp;
 &nbsp;
