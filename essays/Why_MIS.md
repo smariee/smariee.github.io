@@ -14,12 +14,20 @@ labels:
 ---
 
 <img width="700px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" class="rounded mx-auto d-block">
-
-
+<br>
+<br>
+<figure class="text-center">
+  <blockquote class="blockquote">
+    <p>I have no special talent. I am only passionately curious.</p>
+  </blockquote>
+  <figcaption class="blockquote-footer">
+    Genius named <cite title="Source Title">Albert Einstein</cite>
+  </figcaption>
+</figure>
+<br>
+<br>
 <p class="text-center">
 <p class="font-monospace">
-
-  
 From my perspective, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. I dabbled a bit of coding during the good 'ol days of MySpace and that's where I found myself spending long nights customizing and building my very own MySpace page. 
 <br>
 <br>
@@ -48,12 +56,3 @@ ITM 352 is just the beginning of MIS and me.
 &nbsp;
 &nbsp;
 &nbsp;
-
- <figure class="text-center">
-  <blockquote class="blockquote">
-    <p>I have no special talent. I am only passionately curious.</p>
-  </blockquote>
-  <figcaption class="blockquote-footer">
-    Genius named <cite title="Source Title">Albert Einstein</cite>
-  </figcaption>
-</figure>
