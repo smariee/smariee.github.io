@@ -38,16 +38,16 @@ I thought to myself that maybe I didn’t have what it takes to be successful in
 “What do you have to lose?” 
 
 I am curious. 
-
+<br>
 ITM 352 is just beginning of MIS and me. 
 <br>  
 <br>  
 <br>  
-## <i>So far, I'm Interested
+<i>So far, I'm Interested
 &nbsp;
 &nbsp;
 &nbsp;
-</p>
+
  <figure class="text-center">
   <blockquote class="blockquote">
     <p>I have no special talent. I am only passionately curious.</p>
