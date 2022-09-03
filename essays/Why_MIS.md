@@ -26,9 +26,8 @@ I dabbled a bit of coding during the good 'ol days of MySpace and that's where I
   
 building my very own MySpace page. 
   
-&nbsp;  
-  
-&nbsp;It was there--that memory--that I knew I should try to learn more about basic programming skills which led me to take this class.
+
+It was there--that memory--that I knew I should try to learn more about basic programming skills which led me to take this class.
 
 The past couple months, I researched more about the Management Information Systems on the Shidler website, the first couple lines threw me off: 
 
@@ -36,8 +35,9 @@ The past couple months, I researched more about the Management Information Syste
 
 utilize IT, and to manage projects to implement IT-related change."</i>
 
-&nbsp; 
-&nbsp;I thought to myself that maybe I didn’t have what it takes to be successful in this major.  
+
+  
+I thought to myself that maybe I didn’t have what it takes to be successful in this major.  
 
 But—even though I doubted my potential—for a while, MIS would always lurk in the back of my mind—I was curious. 
  
