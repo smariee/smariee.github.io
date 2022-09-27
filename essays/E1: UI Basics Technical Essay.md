@@ -15,8 +15,8 @@ labels:
 <p class="font-monospace">
 <i>If I could sum up my experience with the first three WODs in one word, it would be: CHALLENGING</i>
 <br>
-  
-  Challenging because, honestly, it took me some time to get started on my WODs, but once I got it started, I wish I started a bit earlier because of how straightforward and simple it was. I thought it would be complicated to develop, but it was as simple as following the instructions. 
+  Challenging because, honestly, it took me some time to get started on my WODs, but once I got it started, I wish I started a bit earlier because of how straightforward and simple it was. I thought it would be complicated to develop, but it was as simple as following the instructions.
+  <br>
   <p>For BrowserHistory1, I attempted it twice. My first attempt was around 23mins. After the first attempt, watching the solution has helped me improve on my speed to 13mins. What took me awhile on the first attempt was copying the sections of paragraphs one at a time. Instead, it was quicker to copy/paste the entire text at once (as shown in the screencast). Going back and forth copying and pasting was time-consuming. I also took time to clean up and align the html tags which were unneccesary. 
   Additionally, creating IDs for each section heading to link it in the Table of Contents section was something new for me such as typing "#" in front of the ID to locate a section on the same web page. Doing that exercise helped me to understand how important IDs were. It is crucial that I make sure I typed the IDs exactly the same (uppercase or lowercase). 
   </p>
