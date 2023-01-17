@@ -53,7 +53,9 @@ ITM 352 is just the beginning of MIS and me.
 <br>  
 <br>  
 <i>So far, I'm Interested.
- <br>
+<br>
+<br>
+<b>  
   ---This was back in Fall 2022--
   I encountered a setback that affected me last semester and failed the class. Deep down, I'm still interested.. This is now my 2nd attempt and I'm set to successfully finishing ITM 352 with flying colors. 
 &nbsp;
