@@ -19,7 +19,7 @@ I am a Shidler Undergraduate currently working towards a BBA in MIS.
 <br>
 I am accompanied by a lovable pet dog named Scruffy, a happy cat named Chasey, and fostering 4 curious kittens: Rocky, Latte (Lala), Fluffy, and Tiny.
 <br>
-I enjoy talking walks with Scruffy, spiritual awakenings ✝, snacking on chocolates, & drinking milk tea. Watching Kdramas and Netflix are currently a few of my favorite things to do on my free time. 
+I enjoy talking walks with Scruffy, spiritual awakenings, snacking on chocolates, & drinking milk tea. Watching Kdramas and Netflix are currently a few of my favorite things to do on my free time. 
 <br>
 Gaining new knowledge about my major piques my curiousity and I hope it stays that way. 
 <br>
