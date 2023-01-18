@@ -9,18 +9,19 @@
     "summary": "I am studying for a BBA in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "smariee", "url": "http://github.com/smariee" },
-      { "network": "linkedin", "username": "", "url": "" },
-      { "network": "twitter", "username": "", "url": "" },
-      { "network": "instagram", "username": "", "url": "" }
+      //{ "network": "github", "username": "smariee", "url": "http://github.com/smariee" },
+      //{ "network": "linkedin", "username": "", "url": "" },
+      //{ "network": "twitter", "username": "", "url": "" },
+      //{ "network": "instagram", "username": "", "url": "" }
     ]
   },
   "interests": [
+    { "name": "Daily Devotions" },
     { "name": "Animal Lover" },
-    { "name": "Foreign Films: Fantasy Historical Chinese Dramas & Korean Dramas" },
+    { "name": "Foreign Films: Fantasy Historical CDramas & KDramas" },
     { "name": "Reading" },
-    { "name": "Chocolate" },
-    { "name": "New Adventures" }
+    { "name": "Graphic Design" },
+    { "name": "Adventure Time" }
   ],
   "skills": [
     {
@@ -43,7 +44,7 @@
       ]
     }
   ],
-  "work": [
+  "work": null 
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -82,7 +83,7 @@
         "Maintain custom data collection and storage infrastructure"
       ]
     },
-    {
+    //{
       "organization": "",
       "website": "",
       "position": "Professional organization involvement",
@@ -98,16 +99,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Phi Tetha Kappa Honor Society",
+      "date": "2021-Present",
+      "awarder": "Honolulu Community College",
+      "summary": "Earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Deans List",
+      "date": "Fall 2021",
+      "awarder": "Honolulu Community College",
+      "summary": ""
     }
   ],
   "references": [
