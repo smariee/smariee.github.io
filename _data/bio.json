@@ -83,8 +83,8 @@
         "Maintain custom data collection and storage infrastructure"
       ]
     },
-    //{
-      "organization": "",
+    {
+      "organization": "null",
       "website": "",
       "position": "Professional organization involvement",
       "startDate": "",
