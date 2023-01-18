@@ -45,6 +45,7 @@ ITM 352 is just the beginning of MIS and me.
 <br>
 <b>  
 ---This was back in Fall 2022--
+<br>
   I encountered a setback that affected me last semester and failed the class. Deep down, I'm still interested.. Technology, in general, and the business industry is something that I have been interested in. The more I learned about my strengths and weakneses, I've realized that I have a growing desire to use technology to improve the lives of others. This is now my 2nd attempt and I'm set to successfully finishing ITM 352 with flying colors. 
   </b>
 &nbsp;
