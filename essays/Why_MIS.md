@@ -31,7 +31,7 @@ labels:
 To me, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. I was introduced to & dabbled a bit of basic coding during the good 'ol days of MySpace where I found myself spending long nights customizing and building my very own MySpace page. 
 <br>
 <br>
-It was there--that memory--that I felt I should try to learn more about basic programming skills which led me to take this class. The past couple months, I researched more about the Management Information Systems on the Shidler website.
+It was there--that memory--that I felt I should try to learn more about basic programming skills which led me to take this class. The past couple months, I researched more about the Management Information Systems Program on the Shidler website.
 <br>
 <br>
 While reading it, I thought to myself that maybe I didn’t have what it takes to be successful in this major. But—even though I doubted my potential--for a while, MIS would lurk in the back of my mind—-I was genuinely curious. So I'll give it a try.
