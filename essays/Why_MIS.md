@@ -34,7 +34,7 @@ To me, taking ITM 352 is a good way for me to test the waters and explore a pote
 It was there--that memory--that I felt I should try to learn more about basic programming skills which led me to take this class. The past couple months, I researched more about the Management Information Systems on the Shidler website.
 <br>
 <br>
-While reading it, I thought to myself that maybe I didn’t have what it takes to be successful in this major. But—even though I doubted my potential--for a while, MIS would lurk in the back of my mind—-I was genuinely curious. Technology, in general, and the business industry is something that I have been interested in. The more I learned about my strengths and weakneses, I've realized that I have a growing desire to use technology to improve the lives of others. 
+While reading it, I thought to myself that maybe I didn’t have what it takes to be successful in this major. But—even though I doubted my potential--for a while, MIS would lurk in the back of my mind—-I was genuinely curious. So I'll give it a try.
 <br>   
 <br>
 ITM 352 is just the beginning of MIS and me. 
@@ -45,7 +45,7 @@ ITM 352 is just the beginning of MIS and me.
 <br>
 <b>  
 ---This was back in Fall 2022--
-  I encountered a setback that affected me last semester and failed the class. Deep down, I'm still interested.. This is now my 2nd attempt and I'm set to successfully finishing ITM 352 with flying colors. 
+  I encountered a setback that affected me last semester and failed the class. Deep down, I'm still interested.. Technology, in general, and the business industry is something that I have been interested in. The more I learned about my strengths and weakneses, I've realized that I have a growing desire to use technology to improve the lives of others. This is now my 2nd attempt and I'm set to successfully finishing ITM 352 with flying colors. 
   </b>
 &nbsp;
 &nbsp;
