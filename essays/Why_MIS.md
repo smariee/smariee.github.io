@@ -21,42 +21,30 @@ labels:
     <p>I have no special talent. I am only passionately curious.</p>
   </blockquote>
   <figcaption class="blockquote-footer">
-    Genius named <cite title="Source Title">Albert Einstein</cite>
+   <cite title="Source Title">Albert Einstein</cite>
   </figcaption>
 </figure>
 <br>
 <br>
 <p class="text-center">
 <p class="font-monospace">
-From my perspective, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. I dabbled a bit of coding during the good 'ol days of MySpace and that's where I found myself spending long nights customizing and building my very own MySpace page. 
+To me, taking ITM 352 is a good way for me to test the waters and explore a potential career in MIS. I was introduced to & dabbled a bit of basic coding during the good 'ol days of MySpace where I found myself spending long nights customizing and building my very own MySpace page. 
 <br>
 <br>
-It was there--that memory--that I knew I should try to learn more about basic programming skills which led me to take this class. The past couple months, I researched more about the Management Information Systems on the Shidler website, the first couple lines threw me off: 
+It was there--that memory--that I felt I should try to learn more about basic programming skills which led me to take this class. The past couple months, I researched more about the Management Information Systems on the Shidler website.
+<br>
+<br>
+While reading it, I thought to myself that maybe I didn’t have what it takes to be successful in this major. But—even though I doubted my potential--for a while, MIS would lurk in the back of my mind—-I was genuinely curious. Technology, in general, and the business industry is something that I have been interested in. The more I learned about my strengths and weakneses, I've realized that I have a growing desire to use technology to improve the lives of others. 
 <br>   
-<br>
-<i>“...analyze opportunities for business change and growth using information technologies (IT), to design and develop business solutions that utilize IT, and to manage projects to implement IT-related change."</i>
-<br>  
-<br>  
-I thought to myself that maybe I didn’t have what it takes to be successful in this major. But—even though I doubted my potential--for a while, MIS would lurk in the back of my mind—-I was curious. 
-<br>   
-<br>  
-“It wouldn’t hurt to try.” 
-
-“You won’t know unless you try.” 
-
-“What do you have to lose?” 
-
-I am curious. 
 <br>
 ITM 352 is just the beginning of MIS and me. 
 <br>  
-<br>  
-<br>  
+<br>
 <i>So far, I'm Interested.
 <br>
 <br>
 <b>  
-  ---This was back in Fall 2022--
+---This was back in Fall 2022--
   I encountered a setback that affected me last semester and failed the class. Deep down, I'm still interested.. This is now my 2nd attempt and I'm set to successfully finishing ITM 352 with flying colors. 
   </b>
 &nbsp;
