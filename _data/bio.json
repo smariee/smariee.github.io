@@ -10,9 +10,6 @@
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "smariee", "url": "http://github.com/smariee" },
-      { "network": "linkedin", "username": "null", "url": "" },
-      { "network": "twitter", "username": "null", "url": "" },
-      { "network": "instagram", "username": "null", "url": "" }
     ]
   },
   "interests": [
@@ -44,19 +41,6 @@
       ]
     }
   ],
-  "work": null 
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
   "awards": [
     {
       "title": "Phi Tetha Kappa Honor Society",
