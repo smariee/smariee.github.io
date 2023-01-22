@@ -6,11 +6,11 @@
 :root {
   --tf-beige:#ECECDF;
   --tf-soft:#999B84;
-  --tf-cream:#F7ECDF;
+  --tf-purpcream:#988792;
   --tf-smoke:#E3E4EQ;
   --bs-font-sans-serif: "Bitter", sans-serif;
-  --bs-link-color: var(--bs-blue);
-  --tf-pill-bg: var(--tf-cream);
+  --bs-link-color: var(--tf-purpcream);
+  --tf-pill-bg: var(--tf-purpcream);
   --tf-icon-fill: var(--tf-soft);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--bs-black);
