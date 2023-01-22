@@ -6,11 +6,11 @@
 :root {
   --bs-font-sans-serif: "Bitter", sans-serif;
   --bs-link-color: var(--bs-blue);
-  --tf-pill-bg: var(--bs-brown);
-  --tf-icon-fill: var(--bs-gray);
+  --tf-pill-bg: var(--bs-black);
+  --tf-icon-fill: var(--bs-black);
   --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--bs-brown-200);
-  --tf-projects-bg-color: var(--bs-brown-100);
+  --tf-footer-bg-color: var(--bs-black);
+  --tf-projects-bg-color: var(--bs-gray-100);
 }
 
 /* Format social media icons */
