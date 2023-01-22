@@ -4,13 +4,14 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
+  --tf-beige:#ECECDF;
   --bs-font-sans-serif: "Bitter", sans-serif;
   --bs-link-color: var(--bs-blue);
   --tf-pill-bg: var(--bs-black);
   --tf-icon-fill: var(--bs-black);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--bs-black);
-  --tf-projects-bg-color: var(--bs-gray-100);
+  --tf-projects-bg-color: var(--tf-beige);
 }
 
 /* Format social media icons */
