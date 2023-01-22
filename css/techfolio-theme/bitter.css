@@ -5,11 +5,11 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-beige:#ECECDF;
-  --tf-soft:#ADA3A4;
+  --tf-soft:#A5A37F;
   --bs-font-sans-serif: "Bitter", sans-serif;
   --bs-link-color: var(--bs-blue);
   --tf-pill-bg: var(--bs-black);
-  --tf-icon-fill: var(--tf-beige);
+  --tf-icon-fill: var(--tf-soft);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--bs-black);
   --tf-projects-bg-color: var(--bs-white);
