@@ -8,10 +8,15 @@
   --bs-font-sans-serif: "Bitter", sans-serif;
   --bs-link-color: var(--bs-blue);
   --tf-pill-bg: var(--bs-black);
-  --tf-icon-fill: var(--bs-black);
+  --tf-icon-fill: var(--tf-beige);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--bs-black);
-  --tf-projects-bg-color: var(--tf-beige);
+  --tf-projects-bg-color: var(--bs-white);
+}
+
+h1 {
+  color: var(--tf-beige);
+  font-family: Rubik;
 }
 
 /* Format social media icons */
