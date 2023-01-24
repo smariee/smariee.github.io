@@ -12,7 +12,7 @@ labels:
 ---
 
 <img width="350px" class="rounded float-start pe-4" src="https://jerad.blog/wp-content/uploads/2019/11/The-Value-of-Challenging-Yourself.jpg">
-<p class="font-monospace">
+
 
 ## Spring 2023
 
