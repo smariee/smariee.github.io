@@ -8,11 +8,12 @@
   --tf-soft:#999B84;
   --tf-purpcream:#988792;
   --tf-smoke:#E3E4E0;
+  --tf-softiff:#BFE3D6;
   --bs-font-sans-serif: "Bitter", sans-serif;
   --bs-link-color: var(--tf-purpcream);
   --tf-pill-bg: var(--tf-purpcream);
   --tf-icon-fill: var(--tf-soft);
-  --tf-page-bg-color: var(--bs-white);
+  --tf-page-bg-color: var(--tf-softiff);
   --tf-footer-bg-color: var(--bs-black);
   --tf-projects-bg-color: var(--tf-smoke);
 }
