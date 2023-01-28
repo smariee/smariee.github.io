@@ -13,7 +13,7 @@
   --bs-link-color: var(--tf-purpcream);
   --tf-pill-bg: var(--tf-purpcream);
   --tf-icon-fill: var(--tf-soft);
-  --tf-page-bg-color: var(--tf-softiff);
+  --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--bs-black);
   --tf-projects-bg-color: var(--tf-softiff);
   --tf-essays-bg-color: var(--tf-softiff);
@@ -38,6 +38,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-white);
+  background-color: var(--tf-softiff;
   border-top: none;
 }
