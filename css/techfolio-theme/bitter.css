@@ -11,7 +11,7 @@
   --tf-softiff:#BFE3D6;
   --bs-font-sans-serif: "Bitter", sans-serif;
   --bs-link-color: var(--tf-purpcream);
-  --tf-pill-bg: var(--tf-purpcream);
+  --tf-pill-bg: var(--tf-softiff);
   --tf-icon-fill: var(--tf-soft);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--bs-black);
@@ -38,6 +38,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--tf-softiff);
+  background-color: var(--bs-white);
   border-top: none;
 }
