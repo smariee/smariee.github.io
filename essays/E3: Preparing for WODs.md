@@ -13,9 +13,9 @@ labels:
 
 This WOD entails using Javascript expressions/variables to generate and display a sales invoice with product data (5 different products). 
 
-WOD page: https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html
+**WOD page**: https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html
 
-WOD GitHub link: https://github.com/smariee/ITM352_S23_repo/tree/main/WODs/Invoice1
+**WOD GitHub link**: https://github.com/smariee/ITM352_S23_repo/tree/main/WODs/Invoice1
 
 ## Experience
 
