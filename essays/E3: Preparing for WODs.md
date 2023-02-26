@@ -9,14 +9,6 @@ labels:
   - WODs
   - Invoice1 
 ---
-Provide a brief introduction to the WOD along with a link to the WOD page for further details
-
-Discuss your experiences in performing the WOD. What worked well, what did you stumble on or slowed you down.
-
-Describe what you to did to prepare. What did you do similarly or differently from the WODs before this?
-
-Discuss what you could have done to be better prepared and what you might try differently for the next WOD.
-
 ## Invoice1 WOD
 
 This WOD entails using Javascript expressions/variables to generate and display a sales invoice with product data (5 different products). 
@@ -42,7 +34,8 @@ My fifth attempt was 14 minutes! This was definitely progress! I took out 5 mint
 - Multi-cursor selection
 - copy and paste (one-click)
 
-These shortcuts reduced alot of time! & I'm happy about it :) I feel that I should spend more time prepping and researching more about what I'll work with before attempting the next WOD. 
+These shortcuts reduced alot of time! & I'm happy about it :) 
+I feel that I should spend more time prepping and researching than usual about what I'll work on before attempting the next WOD. 
 
 
 
