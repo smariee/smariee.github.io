@@ -20,6 +20,10 @@ Discuss what you could have done to be better prepared and what you might try di
 ## Invoice1 WOD
 
 This WOD entails using Javascript expressions/variables to generate and display a sales invoice with product data (5 different products). 
+WOD page: https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html
+WOD GitHub link: https://github.com/smariee/ITM352_S23_repo/tree/main/WODs/Invoice1
+
+## Experience
 
 I attempted WOD invoice1 five times. I DNF'd (>40 mins) the first 3 attempts because there were some tasks that took longer than others such as the first part of it. The first part of the WOD involved defining variables for 5 different products broken down into sets (product data, extended prices, sales tax, and grand total). 
 
