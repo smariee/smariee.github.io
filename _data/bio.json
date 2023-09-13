@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "Sylvia Marie Duhaylongsod",
+    "label": "Student",
+    "picture": "https://github.com/smariee.png",
+    "email": "smld@hawaii.edu",
+    "phone": "808-209-5756",
+    "website": "https://smariee.github.io",
+    "summary": "I am studying for a BBA in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "smariee", "url": "http://github.com/smariee" }
+    ]
+  },
+  "interests": [
+    { "name": "Daily Devotions" },
+    { "name": "Animal Lover" },
+    { "name": "Foreign Films: Fantasy Historical C&KDramas" },
+    { "name": "Reading" },
+    { "name": "Graphic Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information System and Marketing (expected Spring, 2024)",
+      "studyType": "BBA",
+      "startDate": "2022-01-13",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Phi Tetha Kappa Honor Society",
+      "date": "2021-Present",
+      "awarder": "Honolulu Community College",
+      "summary": "Earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade."
+    },
+    {
+      "title": "Deans List",
+      "date": "Fall 2021",
+      "awarder": "Honolulu Community College",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
