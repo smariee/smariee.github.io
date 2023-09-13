@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "E1: UI Basics Technical Essay"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-24
+date: 2023-09-12
 published: true
 labels:
   - Essay 1
@@ -14,9 +14,9 @@ labels:
 <img width="350px" class="rounded float-start pe-4" src="https://jerad.blog/wp-content/uploads/2019/11/The-Value-of-Challenging-Yourself.jpg">
 
 
-## Spring 2023
+## Fall 2023
 
-Because of what I had experience last semester, I made sure to start working on my WODs right away. & it feels so good to be able to turn it in on time! I already knew what to expect from these, so my first attempts for BrowserHistory 1 & 2 were below Rx. Even though I had already done BrowserHistory 1,2, & 3 before, I approached them as if I hadn't because I had to refresh my memory. For HistoryBrowser3 (BH3), my first attempt was 12 minutes so I did it again to hit Rx. What I had done differently for BH3 was utilizing the LiveReload. It was a big help because I could see the changes happening simultaneously. It helped me to understand the HTML code used on another level such as distinguishing between paddings and margins. Previously, my solution was different than the screencast (I didn't make the column width 300px and used the flex property). But ultimately, because the WOD instructed to have each column width 300px, I followed the screencast version
+Even though I had already done BrowserHistory 1,2, & 3 before, I approached them as if I hadn't because I had to refresh my memory. For HistoryBrowser3 (BH3), my first attempt was 12 minutes so I did it again to hit Rx. What I had done differently for BH3 was utilizing the LiveReload. It was a big help because I could see the changes happening simultaneously. It helped me to understand the HTML code used on another level such as distinguishing between paddings and margins. Previously, my solution was different than the screencast (I didn't make the column width 300px and used the flex property). But ultimately, because the WOD instructed to have each column width 300px, I followed the screencast version
 
 ## Fall 2022
   
