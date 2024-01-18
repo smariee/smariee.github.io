@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A Smile is Always the Best Form of Introduction"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-17
+date: 2024-01-18
 published: true
 labels:
   - About Me
@@ -16,10 +16,6 @@ labels:
 I am 29 years old. Born and raised in the beautiful island of Oahu, Hawaii. 
 <br>
 I am a Shidler Undergraduate currently working towards a BBA in MIS.
-<br>
-I am accompanied by a lovable pet dog named Scruffy, a happy cat named Chasey, and fostering 4 curious kittens: Rocky, Latte (Lala), Fluffy, and Tiny.
-<br>
-I enjoy taking walks with Scruffy, spiritual awakenings, learning new things, snacking on chocolates, & drinking coffee/milk tea. Watching Kdramas and Netflix are currently a few of my favorite things to do on my free time. 
 <br>
 Gaining new knowledge about my major piques my curiousity and I hope it stays that way. 
 <br>
