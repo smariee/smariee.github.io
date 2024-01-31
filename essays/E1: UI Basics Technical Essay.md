@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "E1: UI Basics Technical Essay"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-12
-published: false
+date: 2024-01-30
+published: true
 labels:
   - Essay 1
   - WOD
@@ -13,7 +13,13 @@ labels:
 
 <img width="350px" class="rounded float-start pe-4" src="https://jerad.blog/wp-content/uploads/2019/11/The-Value-of-Challenging-Yourself.jpg">
 
+## Spring 2024
 
+There are a few things that I've overlooked & corrected as I go through the WODs:
+- There were places in the body that missed some paragraph tags (<p></p>) for BrowserHistory2's products_display.html file.
+- I would utilize LiveReload because it was too easy, but now I'm getting the hang of starting a server through the terminal. And I like having to start a server because it gets more technical and I learn more of how to run a server and how it works...Instead of going the easy route such as LiveReload where it does the work for you.
+- Starting the server was a challenge for me this time around, but when I do get pass it and the page is rendered in the browser...it's a good feeling to troubleshoot and be able to find a solution for it.
+  
 ## Fall 2023
 
 Even though I had already done BrowserHistory 1,2, & 3 before, I approached them as if I hadn't because I had to refresh my memory. For HistoryBrowser3 (BH3), my first attempt was 12 minutes so I did it again to hit Rx. What I had done differently for BH3 was utilizing the LiveReload. It was a big help because I could see the changes happening simultaneously. It helped me to understand the HTML code used on another level such as distinguishing between paddings and margins. Previously, my solution was different than the screencast (I didn't make the column width 300px and used the flex property). But ultimately, because the WOD instructed to have each column width 300px, I followed the screencast version
