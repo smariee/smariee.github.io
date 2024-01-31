@@ -16,7 +16,7 @@ labels:
 ## Spring 2024
 
 There are a few things that I've overlooked & corrected as I go through the WODs:
-- There were places in the body that missed some paragraph tags "<p></p>" for BrowserHistory2's products_display.html file.
+- There were places in the body that missed some paragraph tags for BrowserHistory2's products_display.html file.
 - I would utilize LiveReload because it was too easy, but now I'm getting the hang of starting a server through the terminal. And I like having to start a server because it gets more technical and I learn more of how to run a server and how it works...Instead of going the easy route such as LiveReload where it does the work for you.
 - Starting the server was a challenge for me this time around, but when I do get pass it and the page is rendered in the browser...it's a good feeling to troubleshoot and be able to find a solution for it.
   
