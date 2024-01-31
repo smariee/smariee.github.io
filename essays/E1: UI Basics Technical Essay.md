@@ -1,4 +1,4 @@
-![image](https://github.com/smariee/smariee.github.io/assets/112126921/d3ca9c74-3ace-435d-b2a7-eef793e0e909)---
+---
 layout: essay
 type: essay
 title: "E1: UI Basics Technical Essay"
