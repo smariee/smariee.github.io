@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "E3: Preparing for WODs"
 # All dates must be YYYY-MM-DD format!
-date: 2023-02-25
-published: false
+date: 2024-02-17
+published: true
 labels:
   - WODs
   - Invoice1 
@@ -15,7 +15,7 @@ This WOD entails using Javascript expressions/variables to generate and display 
 
 **WOD page**: https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html
 
-**WOD GitHub link**: https://github.com/smariee/ITM352_S23_repo/tree/main/WODs/Invoice1
+**WOD GitHub link**: [https://github.com/smariee/ITM352_S23_repo/tree/main/WODs/Invoice1](https://github.com/smariee/ITM352_S24_repo/blob/main/WODs/Invoice1/invoice.html)
 
 ## Experience
 
