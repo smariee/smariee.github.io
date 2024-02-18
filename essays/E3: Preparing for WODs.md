@@ -15,7 +15,7 @@ This WOD entails using Javascript expressions/variables to generate and display 
 
 **WOD page**: https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html
 
-**WOD GitHub link**: [https://github.com/smariee/ITM352_S23_repo/tree/main/WODs/Invoice1](https://github.com/smariee/ITM352_S24_repo/blob/main/WODs/Invoice1/invoice.html)
+**WOD GitHub link**: https://github.com/smariee/ITM352_S24_repo/blob/main/WODs/Invoice1/invoice.html
 
 ## Experience
 
